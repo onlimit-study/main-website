@@ -3,8 +3,8 @@ project:
 
 website:
   title: "ON LiMiT"
-  site-url: "https://steno-aarhus.github.io/ON-LiMiT/"
-  repo-url: "https://github.com/steno-aarhus/ON-LiMiT"
+  site-url: "https://onlimit.dk/"
+  repo-url: "https://github.com/on-limit-study/main-website"
   navbar:
     pinned: true
     left:
@@ -20,11 +20,8 @@ website:
             href: researchers.md
     tools:
       - icon: github
-        href: "https://github.com/steno-aarhus/ON-LiMiT"
-        aria-label: "GitHub icon: Link to ON LiMIT GitHub page"
-      - icon: globe
-        href: directory.qmd
-        aria-label: "Globe icon: Link to directory page of other SDCA websites"
+        href: "https://github.com/on-limit-study"
+        aria-label: "GitHub icon: Link to ON LiMIT GitHub Organization page"
 
 
 format:
