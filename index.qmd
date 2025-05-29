@@ -1,7 +1,6 @@
 ---
-title: "ON LiMiT"
-subtitle: "Remission af type 2 diabetes med kost og motion"
-image: images/study-design.png
+title: "Remission af type 2 diabetes med kost og motion"
+image: images/study-logo.png
 title-block-banner: false
 about:
     template: jolla
@@ -15,3 +14,11 @@ about:
       - text: "For forskere"
         href: "https://steno-aarhus.github.io/ON-LiMiT/researchers.html"
 ---
+
+::: {.callout-warning appearance="simple"}
+## Under konstruktion
+
+Denne hjemmeside er under konstruktion. Derfor kan indholdes ændres. Vi
+forventer at gå igang med vores feasibility studie til September 2025 og
+hovedstudiet til Marts 2026.
+:::
