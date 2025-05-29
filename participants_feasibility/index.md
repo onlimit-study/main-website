@@ -1,5 +1,5 @@
 ---
-title: "Information til deltagere"
+title: "Information til deltagere i pilot studiet"
 description: |
   Hvis du har type 2 diabetes og vil deltage i projektet
 ---
