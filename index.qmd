@@ -9,7 +9,7 @@ about:
     links:
       - text: "For praktiserende læger"
         href: "https://steno-aarhus.github.io/ON-LiMiT/practitioners.html"
-      - text: "For deltagere til feasibility"
+      - text: "For deltagere til pilotstudie"
         href: "https://steno-aarhus.github.io/ON-LiMiT/participants_feasibility.html"
       - text: "For forskere"
         href: "https://steno-aarhus.github.io/ON-LiMiT/researchers.html"

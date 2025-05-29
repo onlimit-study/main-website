@@ -8,19 +8,19 @@ website:
   navbar:
     pinned: true
     left:
-      - text: "Om ON LiMiT"
+      - text: "Menu"
         menu:
           - text: "Om ON LiMiT"
             href: about.md
           - text: "For praktiserende læger"
             href: practitioners.md
-          - text: "For deltagere"
-            href: participants.md
+          - text: "For deltagere i pilotstudiet"
+            href: participants_feasibility.md
           - text: "For forskere"
             href: researchers.md
     tools:
       - icon: github
-        href: "https://github.com/on-limit-study"
+        href: "https://onlimit.dk"
         aria-label: "GitHub icon: Link to ON LiMIT GitHub Organization page"
 
 
