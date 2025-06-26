@@ -3,7 +3,7 @@ project:
 
 website:
   title: "ON LiMiT"
-  site-url: "https://onlimit.dk/"
+  site-url: "https://onlimit.org/"
   repo-url: "https://github.com/on-limit-study/main-website"
   navbar:
     pinned: true
@@ -15,12 +15,12 @@ website:
           - text: "For praktiserende læger"
             href: practitioners.md
           - text: "For deltagere i pilotstudiet"
-            href: participants_feasibility.md
+            href: participants.md
           - text: "For forskere"
             href: researchers.md
     tools:
       - icon: github
-        href: "https://onlimit.dk"
+        href: "https://github.com/on-limit-study/main-website"
         aria-label: "GitHub icon: Link to ON LiMIT GitHub Organization page"
 
 
