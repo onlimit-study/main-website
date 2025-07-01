@@ -8,11 +8,11 @@ about:
     image-shape: rounded
     links:
       - text: "For praktiserende læger"
-        href: "https://steno-aarhus.github.io/ON-LiMiT/practitioners.html"
+        href: "https://onlimit.org/practitioners.html"
       - text: "For deltagere til pilotstudie"
-        href: "https://steno-aarhus.github.io/ON-LiMiT/participants_feasibility.html"
+        href: "https://onlimit.org/participants.html"
       - text: "For forskere"
-        href: "https://steno-aarhus.github.io/ON-LiMiT/researchers.html"
+        href: "https://onlimit.org/researchers.html"
 ---
 
 ::: {.callout-warning appearance="simple"}

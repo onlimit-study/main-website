@@ -474,12 +474,13 @@ morgenen, efter du har været på toilettet, og før du spiser eller
 drikker noget. Du vil modtage notifikationer, når det er tid til at
 stille dig på vægten. Kun projektteamet kan se dine resultater.
 
-*Blodtryk:* Du skal måle dit blodtryk derhjemme, når du er i ro. Hver
-gang skal du tage tre målinger med mindst 1 minuts pause imellem. Det
-skal du gøre både om morgenen og om aftenen i mindst to dage i hver af
-følgende uger i hhv. fase 1 (uge 1, 2, 4, 8 og 12), fase 2 (uge 18), og
-fase 3 (uge 24, 36, 48 og 52). Blodtryksmålingerne skal uploades via
-studie-appen, og det er kun projektteamet, der kan se resultaterne.
+*Blodtryk:*\
+Du skal måle dit blodtryk derhjemme, når du er i ro. Hver gang skal du
+tage tre målinger med mindst 1 minuts pause imellem. Det skal du gøre
+både om morgenen og om aftenen i mindst to dage i hver af følgende uger
+i hhv. fase 1 (uge 1, 2, 4, 8 og 12), fase 2 (uge 18), og fase 3 (uge
+24, 36, 48 og 52). Blodtryksmålingerne skal uploades via studie-appen,
+og det er kun projektteamet, der kan se resultaterne.
 
 *Smartur:*\
 Du får udleveret et smartur, som vi vil opfordre dig til at have på så
