@@ -452,7 +452,7 @@ målingerne og testene er færdige.\
 
 Se oversigt over alle besøgene i følgende figur.
 
-**insert figure**
+![Studiebesøg](/images/study-visits.png)
 
 ### Målinger i hjemmet
 
