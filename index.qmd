@@ -18,7 +18,7 @@ about:
 ::: {.callout-warning appearance="simple"}
 ## Under konstruktion
 
-Denne hjemmeside er under konstruktion. Derfor kan indholdes ændres. Vi
-forventer at gå igang med vores feasibility studie til September 2025 og
-hovedstudiet til Marts 2026.
+Denne hjemmeside er under konstruktion. Derfor kan indholdet ændre sig.
+Vi forventer at gå i gang med vores feasibility studie til september
+2025 og hovedstudiet til marts 2026.
 :::
