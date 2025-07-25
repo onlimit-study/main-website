@@ -1,6 +1,11 @@
 project:
   type: onlimit-theme
 
+format:
+  onlimit-theme-html:
+    theme:
+      - brand
+
 website:
   title: "ON LiMiT"
   site-url: "https://onlimit.org/"
@@ -22,13 +27,6 @@ website:
       - icon: github
         href: "https://github.com/on-limit-study/main-website"
         aria-label: "GitHub icon: Link to ON LiMIT GitHub Organization page"
-
-
-format:
-  onlimit-theme-html:
-    theme:
-      - onlimit-theme-html
-      - style.scss
 
 editor:
   markdown:
