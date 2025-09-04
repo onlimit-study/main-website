@@ -23,7 +23,7 @@ website:
             href: participants.md
           - text: "For forskere"
             href: researchers.md
-            
+
 editor:
   markdown:
     wrap: 72
