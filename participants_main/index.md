@@ -4,14 +4,6 @@ description: |
   Hvis du har type 2 diabetes og vil deltage i projektet
 ---
 
-::: {.callout-warning appearance="simple"}
-## Under konstruktion
-
-Denne hjemmeside er under konstruktion. Derfor kan indholdes ændres. Vi
-forventer at gå igang med vores feasibility studie til September 2025 og
-hovedstudiet til Marts 2026.
-:::
-
 ## Hvem kan deltage?
 
 Hvis du opfylder kravene for at deltage i forsøget, dvs. du har type
