@@ -1,20 +1,7 @@
 ---
-title: "Information til praktiserende læger"
-description: |
-  Hvis du er praktiserende læger og har patienter med i forsøget
+title: "Step 1: Tilmelding"
+description: For dig der gerne vil tilmelde din klinik til projektet
 ---
-
-::: {.callout-warning appearance="simple"}
-## Under konstruktion
-
-Denne hjemmeside er under konstruktion. Derfor kan indholdes ændres. Vi
-forventer at gå igang med vores feasibility studie til September 2025 og
-hovedstudiet til Marts 2026.
-:::
-
-For at projektet kan gennemføres, er det afhængigt af, at de alment
-praktiserende læger rekrutterer patienter der er i behandling med type 2
-diabetes, til at deltage i projektet.
 
 ## Kan jeg som læge henvise patienter til forsøget?
 
