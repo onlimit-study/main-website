@@ -13,4 +13,6 @@ about:
         href: "https://onlimit.org/participants.html"
       - text: "For forskere"
         href: "https://onlimit.org/researchers.html"
+      - text: "Om projektet"
+        href: "https://onlimit.org/about.html"
 ---
