@@ -1,6 +1,6 @@
 ---
 title: "Remission af type 2 diabetes med kost og motion"
-image: images/study-logo.png
+image: images/study-logo-svg.png
 title-block-banner: false
 about:
     template: jolla
@@ -22,3 +22,4 @@ Denne hjemmeside er under konstruktion. Derfor kan indholdet ændre sig.
 Vi forventer at gå i gang med vores feasibility studie til september
 2025 og hovedstudiet til marts 2026.
 :::
+
