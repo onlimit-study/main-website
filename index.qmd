@@ -14,11 +14,3 @@ about:
       - text: "For forskere"
         href: "https://onlimit.org/researchers.html"
 ---
-
-::: {.callout-warning appearance="simple"}
-## Under konstruktion
-
-Denne hjemmeside er under konstruktion. Derfor kan indholdet ændre sig.
-Vi forventer at gå i gang med vores feasibility studie til september
-2025 og hovedstudiet til marts 2026.
-:::

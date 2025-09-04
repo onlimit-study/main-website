@@ -7,7 +7,7 @@ description: For dig der gerne vil tilmelde din klinik til projektet
 
 Praktiserende læger i de udvalgte kommuner vil blive inviteret til
 projektet. Hvis din klinik ønsker at deltage i projektet eller høre
-mere, er i velkommen til at kontakte os Henvis til kontaktinformation.
+mere, er i velkommen til at kontakte os.
 
 ## Rekruttering af patienter
 
