@@ -5,9 +5,12 @@ description: For dig der gerne vil tilmelde din klinik til projektet
 
 ## Kan jeg som læge henvise patienter til forsøget?
 
-Praktiserende læger i de udvalgte kommuner vil blive inviteret til
-projektet. Hvis din klinik ønsker at deltage i projektet eller høre
-mere, er i velkommen til at kontakte os.
+Praktiserende læger i Albertslund, Ballerup, Brøndby, Glostrup, Herlev
+og Vallensbæk kommuner vil blive inviteret til feasibilityprojektet.
+
+Hvis din klinik ønsker at deltage i projektet eller høre mere, er I
+velkommen til at kontakte projektkoordinator Line Olesen på
+ligole\@rm.dk eller tlf. Tlf. 2370 4053 (Hverdage kl. 11-14)
 
 ## Rekruttering af patienter
 
