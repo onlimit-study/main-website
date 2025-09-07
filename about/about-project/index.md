@@ -1,8 +1,7 @@
 ---
-title: " "
+title: "Om ON LiMiT"
+description: Hvad er ON LiMiT og baggrund for projektet 
 ---
-
-![](/images/study-logo.png)
 
 ## Hvad er ON LiMiT?
 
@@ -55,7 +54,8 @@ vægttabsforløb.
 
 Læs mere om interventionen nedenfor:
 
-::: {.callout-note title="Kostintervention" collapse="true"}
+### Kostintervention
+
 Målet er at opnå en 25 E% forskel i kulhydrat indtag mellem de to
 diæter.
 
@@ -71,9 +71,9 @@ diabetes.
 
 For at gøre diæterne mere bæredygtige, vil en stor del af især
 proteinindholdet være af ikke-animalsk oprindelse.
-:::
 
-::: {.callout-note title="Træningsintervention" collapse="true"}
+### Træningsintervention
+
 Deltagerne instrueres i at deltage i tre træningssessioner om ugen,
 heraf to overvågede sessioner á 60-minutter og én uovervåget session,
 hvor et smartur bruges til at monitorere intensiteten.
@@ -91,7 +91,6 @@ effektiv til at reducere HbA1c end hver modalitet alene, prioriteres
 højintensiv aerob træning i tilfælde, hvor overholdelse af
 modstandstræning er en udfordring, eller hvor udgang til faciliteter
 ikke muliggør modstandstræning.
-:::
 
 ## Forventede resultater
 
