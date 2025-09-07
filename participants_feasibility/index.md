@@ -307,21 +307,21 @@ De 10 forsøgsdage er beskrevet i nedenstående tabel. Du kan se, hvornår
 besøgene er placeret, varigheden af de enkelte besøg og om du skal møde
 op fastende eller ej.\
 
-| Besøg         | Kort beskrivelse af besøget                            | Tidsplan                               | Varighed    | Fastende forud for besøget (Ja/Nej) |
-|:--------------|:-------------------------------------------------------|:---------------------------------------|:------------|:------------------------------------|
-| Besøg 1       | Infomøde + Screening + Opstartsbesøg                   | Dag 1                                  | 1,5 timer   | Nej                                 |
-| Besøg 2       | Måltidstest                                            | 10-14 dage efter besøg 1               | 4,5 timer   | Ja                                  |
-| Besøg 3       | Måltidstest                                            | 3-4 dage efter besøg 2                 | 4,5 timer   | Ja                                  |
-| Besøg 4       |                                                        |                                        |             |                                     |
-| Baselinebesøg | Undersøgelsesdag inkl. måltidstest + Opstart af fase 1 | 3-4 dage efter besøg 3                 | 6,5 time    | Ja                                  |
-| Besøg 5       | Kort besøg til påsætning af udstyr                     | Cirka 10-14 dage før besøg 6           | 30 minutter | Nej                                 |
-| Besøg 6       | Undersøgelsesdag inkl. måltidstest + Opstart af fase 2 | Cirka 12 uger efter baseline (besøg 4) | 6,5 time    | Ja                                  |
-| Besøg 7       | Kort besøg til påsætning af udstyr                     |                                        |             |                                     |
-|               | Cirka 10-14 dage før besøg 8                           | 30 minutter                            | Nej         |                                     |
-| Besøg 8       | Undersøgelsesdag inkl. måltidstest + Opstart af fase 3 | Cirka 18 uger efter baseline (besøg 4) | 6,5 time    | Ja                                  |
-| Besøg 9       | Kort besøg til påsætning af udstyr                     | Cirka 10-14 dage før besøg 10          | 30 minutter | Nej                                 |
-| Besøg 10      | Undersøgelsesdag- Afslutningsbesøg                     |                                        |             |                                     |
-| Måltidstest   | Cirka 52 uger efter baseline (besøg 4)                 | 6,5 timer                              | Ja          |                                     |
+| Besøg | Kort beskrivelse af besøget | Tidsplan | Varighed | Fastende forud for besøget (Ja/Nej) |
+|:---|:---|:---|:---|:---|
+| Besøg 1 | Infomøde + Screening + Opstartsbesøg | Dag 1 | 1,5 timer | Nej |
+| Besøg 2 | Måltidstest | 10-14 dage efter besøg 1 | 4,5 timer | Ja |
+| Besøg 3 | Måltidstest | 3-4 dage efter besøg 2 | 4,5 timer | Ja |
+| Besøg 4 |  |  |  |  |
+| Baselinebesøg | Undersøgelsesdag inkl. måltidstest + Opstart af fase 1 | 3-4 dage efter besøg 3 | 6,5 time | Ja |
+| Besøg 5 | Kort besøg til påsætning af udstyr | Cirka 10-14 dage før besøg 6 | 30 minutter | Nej |
+| Besøg 6 | Undersøgelsesdag inkl. måltidstest + Opstart af fase 2 | Cirka 12 uger efter baseline (besøg 4) | 6,5 time | Ja |
+| Besøg 7 | Kort besøg til påsætning af udstyr |  |  |  |
+|  | Cirka 10-14 dage før besøg 8 | 30 minutter | Nej |  |
+| Besøg 8 | Undersøgelsesdag inkl. måltidstest + Opstart af fase 3 | Cirka 18 uger efter baseline (besøg 4) | 6,5 time | Ja |
+| Besøg 9 | Kort besøg til påsætning af udstyr | Cirka 10-14 dage før besøg 10 | 30 minutter | Nej |
+| Besøg 10 | Undersøgelsesdag- Afslutningsbesøg |  |  |  |
+| Måltidstest | Cirka 52 uger efter baseline (besøg 4) | 6,5 timer | Ja |  |
 
 Foruden de 10 besøgsdage skal du møde op til 2 HbA1c målinger, når der
 er gået cirka 30 og 42 uger.\
@@ -733,4 +733,3 @@ for Region Midtjylland (Journalnummer 116524).
 ## Kontaktoplysninger
 
 *dette kommer snarest*
-

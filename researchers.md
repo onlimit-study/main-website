@@ -5,14 +5,6 @@ description: |
 title-block-banner: false
 ---
 
-::: {.callout-warning appearance="simple"}
-## Under konstruktion
-
-Denne hjemmeside er under konstruktion. Derfor kan indholdes ændres. Vi
-forventer at gå igang med vores feasibility studie til September 2025 og
-hovedstudiet til Marts 2026.
-:::
-
 ## Om samarbejdet
 
 ON LiMiT er et nationalt videnskabeligt samarbejde mellem forskere fra
