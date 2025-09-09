@@ -23,6 +23,7 @@ Udfyld tilmeldingsformularen for at tilmelde jeres lægepraksis.
 Ved at udfylde formularen accepterer du, at vi behandler dine oplysninger i projektet. Vi bruger de indtastede oplysninger til at registrere tilmeldinger og kontakte jer efterfølgende.
 
 Tilmeldingen er først registreret, når du har trykket på "Indsend" og du får beskeden: "Tak for din tilmelding til ON LiMiT". 
+
 -   Du vil senest 3 hverdage efter tilmeldingen modtage en bekræftelsesmail fra kontaktpersonen i din region.
 -   Hvis pladserne allerede er fyldt, vil din klinik blive skrevet på en interesseliste til hovedstudiet, og du får besked herom.
 
