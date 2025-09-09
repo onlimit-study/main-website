@@ -26,6 +26,9 @@ Tilmeldingen er først registreret, når du har trykket på "Indsend" og du får
 -   Du vil senest 3 hverdage efter tilmeldingen modtage en bekræftelsesmail fra kontaktpersonen i din region.
 -   Hvis pladserne allerede er fyldt, vil din klinik blive skrevet på en interesseliste til hovedstudiet, og du får besked herom.
 
+<iframe src="https://redcap.au.dk/surveys/?s=W4EX7W97EPYXE8EX" width="100%" height="1000px" style="border: 6px solid black">
+</iframe> 
+
 
 ## Rekruttering af patienter
 
