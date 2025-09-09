@@ -73,4 +73,32 @@ Forsøgsstedet monitorerer løbende HbA1c og blodtryk, mens deltagerne selv udf�
 
 Hvis forsøgsstedet måler to separate HbA1c >53 mmol/mol, anbefales genoptagelse af diabetesmedicin. Den praktiserende kontaktes via en korrespondance og anbefales at genoptage diabetesmedicin jf. DSAM/DES retningslinjer. Deltageren opfordres til at fortsætte i forsøget.
 
-![Projektets forløb i almen praksis](/images/Figure_ap.png)
+## Projektets forløb i almen praksis
+![Oplæring](images/GPfigure_1.png)
+- [ ] Læs manualen.
+- [ ] Evt. se instruktionsvideo og/eller deltag i webinar.
+
+**Identificer potentielle deltagere**
+![Identificer potentielle deltagere](images/GPfigure_2.png)
+- [ ] Find Type 2 -patienter via forløbsoverblikket.
+- [ ] Brug in- og eksklusionskriterier til at identificere potentielle deltagere.
+
+**Inviter potentielle deltagere og følg op**
+![Inviter potentielle deltagere og følg op](images/GPfigure_3.png)
+- [ ] Send invitation til potentielle deltagere via Min Læge eller brevpost.
+- [ ] Følg op med telefonisk kontakt til patienter, der ikke har til- eller frameldt sig.
+
+**Udfyld rekrutteringsskema**
+![Rekrutteringsskema](images/GPfigure_4.png)
+- [ ] Indtast data om antal patienter i målgruppen, antal potentielle deltagere og antal, der har takket nej. (Link til elektronisk skema fremsendes på mail.)
+
+**Medicin-seponering**
+![Medicin](images/GPfigure_5.png)
+- [ ] Modtag korrespondancemeddelelse om medicin-seponering.
+- [ ] Seponer diabetes- og blodtryksmedicin.
+
+**Eventuel genoptagelse af medicinsk behandling**
+![Eventuel genoptagelse af medicinsk behandling](images/GPfigure_6.png)
+- [ ] Fortsat behandlingsansvar og vanlig kontakt med deltagere
+- [ ] Ved to separate HbA1c-målinger eller systolisk blodtryk over 140 mmHg informerer forsøgsstedet klinikken.
+- [ ] Send en meddelelse retur med information om genoptagelse af medicin.
