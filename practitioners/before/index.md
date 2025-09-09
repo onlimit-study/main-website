@@ -72,4 +72,4 @@ Forsøgsstedet monitorerer løbende HbA1c og blodtryk, mens deltagerne selv udf�
 
 Hvis forsøgsstedet måler to separate HbA1c >53 mmol/mol, anbefales genoptagelse af diabetesmedicin. Den praktiserende kontaktes via en korrespondance og anbefales at genoptage diabetesmedicin jf. DSAM/DES retningslinjer. Deltageren opfordres til at fortsætte i forsøget.
 
-![Rekrutterings- og behandlingsforløb](/images/study-recruitment.png)
+![Projektets forløb i almen praksis](/images/figure_ap.png)
