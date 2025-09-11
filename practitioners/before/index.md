@@ -33,7 +33,7 @@ får beskeden: "Tak for din tilmelding til ON LiMiT".
 -   Hvis pladserne allerede er fyldt, vil din klinik blive skrevet på en
     interesseliste til hovedstudiet, og du får besked herom.
 
-<iframe src="https://redcap.au.dk/surveys/?s=W4EX7W97EPYXE8EX" width="100%" height="1000px" style="border: 6px solid black">
+<iframe title="Tilmeldingsformular" src="https://redcap.au.dk/surveys/?s=W4EX7W97EPYXE8EX" width="100%" height="1000px" style="border: 6px solid black">
 
 </iframe>
 
