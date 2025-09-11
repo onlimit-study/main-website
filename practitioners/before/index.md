@@ -97,49 +97,66 @@ retningslinjer. Deltageren opfordres til at fortsætte i forsøget.
 ## Projektets forløb i almen praksis
 
 ::: {layout="[10, 90]"}
-![](/images/GPfigure_1.png){.icon}
+![](/images/GPfigure_1.png){.icon
+fig-alt="An icon showing a computer with a video symbol on the screen."}
 
 ### Oplæring
-- Læs manualen.
-- Evt. se instruktionsvideo og/eller deltag i webinar.
+
+-   Læs manualen.
+-   Evt. se instruktionsvideo og/eller deltag i webinar.
 :::
 
 ::: {layout="[10, 90]"}
-![](/images/GPfigure_2.png){.icon}
+![](/images/GPfigure_2.png){.icon
+fig-alt="An icon showing a magnifying glass."}
 
 ### Identificer potentielle deltagere
-- Find type 2-patienter via forløbsoverblikket.
-- Brug in- og eksklusionskriterier til at identificere potentielle deltagere.
+
+-   Find type 2-patienter via forløbsoverblikket.
+-   Brug in- og eksklusionskriterier til at identificere potentielle
+    deltagere.
 :::
 
 ::: {layout="[10, 90]"}
-![](/images/GPfigure_3.png){.icon}
+![](/images/GPfigure_3.png){.icon
+fig-alt="An icon showing a letter and a telephone."}
 
 ### Inviter potentielle deltagere og følg op
-- Send invitation til potentielle deltagere via Min Læge eller brevpost.
-- Følg op med telefonisk kontakt til patienter, der ikke har til- eller frameldt sig.
+
+-   Send invitation til potentielle deltagere via Min Læge eller
+    brevpost.
+-   Følg op med telefonisk kontakt til patienter, der ikke har til-
+    eller frameldt sig.
 :::
 
 ::: {layout="[10, 90]"}
-![](/images/GPfigure_4.png){.icon}
+![](/images/GPfigure_4.png){.icon
+fig-alt="An icon showing a computer screen with checkmarks."}
 
 ### Udfyld rekrutteringsskema
-- Indtast data om antal patienter i målgruppen, antal potentielle deltagere og antal, der har takket nej. (Link til elektronisk skema fremsendes på mail)
+
+-   Indtast data om antal patienter i målgruppen, antal potentielle
+    deltagere og antal, der har takket nej. (Link til elektronisk skema
+    fremsendes på mail)
 :::
 
 ::: {layout="[10, 90]"}
-![](/images/GPfigure_5.png){.icon}
+![](/images/GPfigure_5.png){.icon fig-alt="An icon showing a rocket."}
 
 ### Medicin-seponering
-- Modtag korrespondancemeddelelse om medicin-seponering.
-- Seponer diabetes- og blodtryksmedicin.
+
+-   Modtag korrespondancemeddelelse om medicin-seponering.
+-   Seponer diabetes- og blodtryksmedicin.
 :::
 
 ::: {layout="[10, 90]"}
-![](/images/GPfigure_6.png){.icon}
+![](/images/GPfigure_6.png){.icon
+fig-alt="An icon showing medicine and two dialogue boxes."}
 
 ### Eventuel genoptagelse af medicinsk behandling
-- Fortsat behandlingsansvar og vanlig kontakt med deltagere
-- Ved to separate HbA1c-målinger eller systolisk blodtryk over 140 mmHg informerer forsøgsstedet klinikken.
-- Send en meddelelse retur med information om genoptagelse af medicin.
+
+-   Fortsat behandlingsansvar og vanlig kontakt med deltagere
+-   Ved to separate HbA1c-målinger eller systolisk blodtryk over 140
+    mmHg informerer forsøgsstedet klinikken.
+-   Send en meddelelse retur med information om genoptagelse af medicin.
 :::
