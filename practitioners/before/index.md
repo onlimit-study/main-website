@@ -137,7 +137,7 @@ fig-alt="An icon showing a computer screen with checkmarks."}
 
 -   Indtast data om antal patienter i målgruppen, antal potentielle
     deltagere og antal, der har takket nej. (Link til elektronisk skema
-    fremsendes på mail)
+    fremsendes på mail).
 :::
 
 ::: {layout="[10, 90]"}
@@ -155,7 +155,7 @@ fig-alt="An icon showing medicine and two dialogue boxes."}
 
 ### Eventuel genoptagelse af medicinsk behandling
 
--   Fortsat behandlingsansvar og vanlig kontakt med deltagere
+-   Fortsat behandlingsansvar og vanlig kontakt med deltagere.
 -   Ved to separate HbA1c-målinger eller systolisk blodtryk over 140
     mmHg informerer forsøgsstedet klinikken.
 -   Send en meddelelse retur med information om genoptagelse af medicin.
