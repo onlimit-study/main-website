@@ -16,11 +16,11 @@ Her finder du information om procedurer i almen praksis samt alle relevante mate
 
 Her kan du finde dokumenter og skemaer, der er relevante for deltagelse i projektet:
 
-- **[Manual]()** – Trin-for-trin vejledning til procedurer i projektet.
-- **[Invitation til potentielle deltagere]()** – Skabelon som tilrettes før du inviterer potentielle deltagere.
-- **[Afkrydsningsliste]()** – Kan evt. printes og bruges til at holde styr på hvor langt klinikken er i projektet.
-- **[Rekrutteringsskema]()** – Kan evt. printes og bruges til at registrere antal deltagere.
-- **[Introduktionsvideo]()** – Kort introduktions video.
+- **[Manual]()**: Trin-for-trin vejledning til procedurer i projektet.
+- **[Invitation til potentielle deltagere]()**: Skabelon som tilrettes før du inviterer potentielle deltagere.
+- **[Afkrydsningsliste]()**: Kan evt. printes og bruges til at holde styr på hvor langt klinikken er i projektet.
+- **[Rekrutteringsskema]()**: Kan evt. printes og bruges til at registrere antal deltagere.
+- **[Introduktionsvideo]()**: Kort introduktions video.
 
 ## Kontakt og støtte
 
