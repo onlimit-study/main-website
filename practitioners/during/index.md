@@ -35,7 +35,8 @@ Ved behov for sparring om behandling eller lægefaglig rådgivning, vedrørende 
 - 📧 [joergen.rungby@regionh.dk](mailto:joergen.rungby@regionh.dk)  
 - ☎️ 2329 3685 / 2168 6620
 
-### Line Olesen  
+### Line Olesen
+
 ![Line Olesen](images/Line.png){.profile-picture}  
 **Projektkoordinator**  
 
