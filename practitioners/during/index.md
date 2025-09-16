@@ -10,7 +10,7 @@ Her finder du information om procedurer i almen praksis samt alle relevante mate
 
 🚧 **Siden er under opbygning og opdateres snarest**
 
-::: hidden
+::: content-hidden
 
 ## Materialer
 
