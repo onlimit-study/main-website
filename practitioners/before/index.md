@@ -4,7 +4,7 @@ description: For dig der gerne vil tilmelde din klinik til projektet
 css: /style.scss
 ---
 
-## Kan jeg som læge henvise patienter til forsøget?
+## Kan jeg som læge henvise patienter til projektet?
 
 Praktiserende læger i Albertslund, Ballerup, Brøndby, Glostrup, Herlev
 og Vallensbæk kommuner inviteres til at deltage i feasibilitystudiet.
@@ -18,7 +18,7 @@ kontakte projektkoordinator Line Olesen på:
 
 ## Tilmelding
 
-Der er plads til ca. 6 lægeklinikker i feasibility studiet.
+Der er plads til ca. 6 lægeklinikker i feasibilitystudiet.
 
 Udfyld tilmeldingsformularen for at tilmelde jeres lægepraksis.
 
@@ -26,13 +26,13 @@ Ved at udfylde formularen accepterer du, at vi behandler dine
 oplysninger i projektet. Vi bruger de indtastede oplysninger til at
 registrere tilmeldinger og kontakte jer efterfølgende.
 
-Tilmeldingen er først registreret, når du har trykket på "Indsend" og du
+Tilmeldingen er først registreret, når du har trykket på "Submit" og du
 får beskeden: "Tak for din tilmelding til ON LiMiT".
 
 -   Du vil senest 3 hverdage efter tilmeldingen modtage en
-    bekræftelsesmail fra kontaktpersonen i din region.
--   Hvis pladserne allerede er fyldt, vil din klinik blive skrevet på en
-    interesseliste til hovedstudiet, og du får besked herom.
+    bekræftelsesmail.
+-   Hvis pladserne allerede er fyldt, bliver din klinik skrevet på en
+    interesseliste til hovedstudiet, og du vil blive informeret herom.
 
 <iframe title="Tilmeldingsformular" src="https://redcap.au.dk/surveys/?s=W4EX7W97EPYXE8EX" width="100%" height="1000px" style="border: 6px solid black">
 
@@ -45,7 +45,7 @@ eksklusionskriterier (se nedenfor). Forventningen er ca. 10 potentielle
 deltagere pr. lægekapacitet.
 
 De praktiserende læger inviterer relevante patienter til at få mere
-information om ON LiMiT. Invitationerne sendes via Min Læge App eller
+information om ON LiMiT. Invitationerne sendes elektronisk via praksissystemet eller evt. med
 brevpost (hvis patienten ikke modtager elektroniske beskeder).
 
 Når en patient tilmelder sig mere information, sendes der automatisk
@@ -53,9 +53,9 @@ skriftligt materiale til patientens mail. En projektmedarbejder fra et
 nærliggende Steno Diabetes Center kontakter herefter patienten
 telefonisk indenfor 3 hverdage for at:
 
--   Give mundtlig information
--   Screene for supplerende eksklusionskriterier (fx BMI \> 27)
--   Invitere til screeningssamtale med mulighed for at afgive samtykke.
+-   give mundtlig information
+-   screene for supplerende eksklusionskriterier (fx BMI \> 27)
+-   invitere til screeningssamtale med mulighed for at afgive samtykke
 
 ### Inklusionskriterier
 
@@ -76,23 +76,25 @@ telefonisk indenfor 3 hverdage for at:
 -   Kendt psykiatrisk sygdom - hvor det vurderes, at personen ikke kan
     gennemføre interventionen
 
-## Hvad er min rolle som praktiserende læge under forsøget?
+## Hvad er min rolle som praktiserende læge under projektet?
 
 De praktiserende læger er nøglepersoner i rekrutteringen, og bevarer
-behandlingsansvaret under hele forsøget.
+behandlingsansvaret i hele projektperioden.
 
 Deltagerne bliver bedt om at stoppe med at tage diabetes- og
 blodtryksmedicin ved opstart i vægttabsfasen, og skal kun tage medicin i
-tilfælde af tilbagefald af diabetes. Forsøgsstedet monitorerer løbende
+tilfælde af tilbagefald af diabetes. 
+
+Forsøgsstedet monitorerer løbende
 HbA1c og blodtryk, mens deltagerne selv udfører supplerende
-sikkerhedsmålinger (fingerrprik, kontinuerlig glukosemåling (CGM) og
+sikkerhedsmålinger (fingerprik, kontinuerlig glukosemåling (CGM) og
 hjemmemåling af blodtryk). Disse målinger uploades til forsøgsstedet
 gennem ON LIMIT appen.
 
 Hvis forsøgsstedet måler to separate HbA1c \>53 mmol/mol, anbefales
 genoptagelse af diabetesmedicin. Den praktiserende kontaktes via en
-korrespondance og anbefales at genoptage diabetesmedicin jf. DSAM/DES
-retningslinjer. Deltageren opfordres til at fortsætte i forsøget.
+korrespondancemeddelelse og anbefales at genoptage diabetesmedicin jf. DSAM/DES
+retningslinjer. Deltageren opfordres til at fortsætte i projektet.
 
 ## Projektets forløb i almen praksis
 
@@ -102,8 +104,8 @@ fig-alt="An icon showing a computer with a video symbol on the screen."}
 
 ### Oplæring
 
--   Læs manualen.
--   Evt. se instruktionsvideo og/eller deltag i webinar.
+-   Start med at læse manualen.
+-   Se evt. instruktionsvideoen og/eller deltag i webinar.
 :::
 
 ::: {layout="[10, 90]"}
@@ -123,7 +125,7 @@ fig-alt="An icon showing a letter and a telephone."}
 
 ### Inviter potentielle deltagere og følg op
 
--   Send invitation til potentielle deltagere via Min Læge eller
+-   Send invitation til potentielle deltagere via praksissystemet eller
     brevpost.
 -   Følg op med telefonisk kontakt til patienter, der ikke har til-
     eller frameldt sig.
@@ -136,8 +138,7 @@ fig-alt="An icon showing a computer screen with checkmarks."}
 ### Udfyld rekrutteringsskema
 
 -   Indtast data om antal patienter i målgruppen, antal potentielle
-    deltagere og antal, der har takket nej. (Link til elektronisk skema
-    fremsendes på mail).
+    deltagere og antal, der har takket nej. 
 :::
 
 ::: {layout="[10, 90]"}
