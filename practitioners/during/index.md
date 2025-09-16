@@ -37,7 +37,7 @@ Ved behov for sparring om behandling eller lægefaglig rådgivning, vedrørende 
 
 ### Line Olesen
 
-![Line Olesen](images/Line.png){.profile-picture}  
+![Line Olesen](images/Line.png){.profile-picture}\
 **Projektkoordinator**  
 
 Ved projektrelaterede spørgsmål, fx om procedurer, kontaktes Line Olesen.
