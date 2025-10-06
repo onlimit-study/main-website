@@ -16,7 +16,7 @@ konsekvenser for din videre behandling.
 Projektet udføres på Steno Diabetes Center Copenhagen, Borgmester Ib
 Juuls Vej 83, 2730 Herlev.
 
-Den 23. maj 2025, version 2.0
+Den 15. september 2025, version 4.0
 
 I den nedenstående deltagerinformation kan du læse mere om, hvad
 projektet går ud på, og hvad der vil ske med dig og dine rettigheder,
@@ -220,8 +220,8 @@ kulhydrater
 ## Definition af højintensitetstræning
 
 3 ugentlige træningssessioner (2 gruppebaserede sessioner med
-instruktør + 1 session på egen hånd) ved mere end 70% af din makspuls,
-det vil sige,at du vil blive forpustet under træningen.\
+instruktør + 1 session på egen hånd) ved mere end 70% af din maksimale
+iltoptagelse, det vil sige,at du vil blive forpustet under træningen.\
 
 Træningsinstruktørerne vil hjælpe dig med at finde den rigtige
 intensitet for træningen.
@@ -316,10 +316,11 @@ op fastende eller ej.\
 Foruden de 10 besøgsdage skal du møde op til 2 HbA1c målinger, når der
 er gået cirka 30 og 42 uger.\
 
-Du vil derudover blive inviteret til at deltage i gruppeinterviews i
-slutningen af hver fase og kan opleve at kostundervisningen og
-holdtræningen vil blive observeret af forsøgsgruppen for at få viden om,
-hvordan I oplever at deltage i undersøgelserne og interventionen.\
+Du vil derudover blive inviteret til at deltage i gruppeinterviews når
+du har været i gang i cirka 4 uger i hver af de tre faser, i slutningen
+af studiet, samt 3 måneder efeter studiets afslutning. Du kan opleve at
+kostundervisningen og holdtræningen vil blive observeret af
+forsøgsgruppen for at få viden om, hvordan de fungerer i praksis.\
 
 Når projektet slutter efter 1 år, vil du fortsætte din
 diabetesbehandling hos din læge som vanligt.\
@@ -358,14 +359,14 @@ at du opfylder kriterierne, vil du blive inviteret til at deltage i
 projektet, og du vil få installeret en studie-app, som vil blive
 benyttet til at indsamle informationer fra dine hjemmemålinger. En
 projektmedarbejder vil gennemgå hjemmemålingerne som du skal lave før
-besøg 2, samt udlevere udstyr til dette (kostregistrering,
-blodsukkermålinger, aktivitetsmålinger og indsamling af urin- og
-afføringsprøver). En projetmedarbejder vil påsætte en aktivitetsmåler på
-højre lår, hvor den skal sidde de næste 10 dage. Aktivietsmåleren er en
-lille bevægelsesmåler, der registrerer, hvor du sidder, står, går,
-cykler osv., og hvor længe og intensitivt du laver de forskellige
-aktiviteter. Målingerne vil kun være tilgængelige for projektgruppen.
-For at undersøge hvad du spiser under studiet, skal du udfylde en
+besøg 2, samt udlevere udstyr til dette (blodsukkermålinger,
+aktivitetsmålinger og indsamling af urin- og afføringsprøver). En
+projetmedarbejder vil påsætte en aktivitetsmåler på højre lår, hvor den
+skal sidde de næste 10 dage. Aktivietsmåleren er en lille
+bevægelsesmåler, der registrerer, hvor du sidder, står, går, cykler
+osv., og hvor længe og intensitivt du laver de forskellige aktiviteter.
+Målingerne vil kun være tilgængelige for projektgruppen. For at
+undersøge hvad du spiser under studiet, skal du udfylde en
 kostregistrering over 3 dage via appen MyFood24. Desuden vil en
 projektmedarbejer påsætte en kontinuerlig blodsukkermåler (CGM)), der
 skal sidde på armen eller bag på overarmen i 10-14 dage.
@@ -379,7 +380,7 @@ skal ikke være fastende til besøget.
 ### Besøg 2 og 3
 
 Her vil du gennemgå en måltidstest, hvor du indtager et testmåltid på
-550 kcal, der består af NUPO shake og suppe og indtages på 10 -- 15 min.
+550 kcal, der består af NUPO shake og bar og indtages på 10 -- 15 min.
 Der vil blive taget 2 blodprøver lige før måltidstesten og 5 blodprøver
 efter måltidstest. Blodprøverne tages fra et kateter, der som standard
 lægges i albuebøjningen og det er derfor ikke til gene for deltageren,
@@ -401,23 +402,22 @@ testen er færdig.
 ### Besøg 5, 7 og 9
 
 En projektmedarbejder vil gennemgå hjemmemålingerne til besøg 5, 7 og 9
-samt udlevere udstyr til dette: kostregistrering (besøg 5, 7 og 9),
-blodsukkermålinger (CGM) (kun besøg 9), aktivitetsmålinger (besøg 5, 7
-og 9) og indsamling af urinprøver (kun besøg 7 og 9) og afføringsprøver
-(besøg 5, 7 og 9). Nedenstående figur giver dig et overblik over
-besøgene. En projetmedarbejder vil påsætte en aktivitetsmåler på højre
-lår, hvor den skal sidde de næste 10 dage. Aktivitetsmåleren er en lille
-bevægelsesmåler, der registrerer, hvor du sidder, står, går, cykler
-osv., og hvor længe og intensitivt du laver de forskellige aktiviteter.
-For at undersøge hvad du spiser under studiet, skal du udfylde en
-kostregistrering over 3 dage via appen MyFood24. Desuden vil en
-projektmedarbejer til besøg 9 påsætte en kontinuerlig blodsukkermåler
-(CGM)), der skal sidde på armen eller bag på overarmen i 10-14 dage.
-Blodsukkermåleren er en lille sensor, som vi sætter på din overarm, du
-mærker kun et prik og sensoren sidder fast med et plaster. Blodsukkeret
-måles på den måde døgnet rundt, uden at du skal gøre noget. Målingerne
-vil kun være tilgængelige for projektgruppen. Besøget tager 30 minutter
-og du skal ikke være fastende til besøget.
+samt udlevere udstyr til dette: blodsukkermålinger (CGM) (kun besøg 9),
+aktivitetsmålinger (besøg 5, 7 og 9) og indsamling af urinprøver (kun
+besøg 7 og 9) og afføringsprøver (besøg 5, 7 og 9). Nedenstående figur
+giver dig et overblik over besøgene. En projektmedarbejder vil påsætte
+en aktivitetsmåler på højre lår, hvor den skal sidde de næste 10 dage.
+Aktivitetsmåleren er en lille bevægelsesmåler, der registrerer, hvor du
+sidder, står, går, cykler osv., og hvor længe og intensivt du laver de
+forskellige aktiviteter. For at undersøge hvad du spiser under studiet,
+skal du udfylde en kostregistrering over 3 dage via appen MyFood24.
+Desuden vil en projektmedarbejer til besøg 9 påsætte en kontinuerlig
+blodsukkermåler (CGM)), der skal sidde på armen eller bag på overarmen i
+10-14 dage. Blodsukkermåleren er en lille sensor, som vi sætter på din
+overarm, du mærker kun et prik og sensoren sidder fast med et plaster.
+Blodsukkeret måles på den måde døgnet rundt, uden at du skal gøre noget.
+Målingerne vil kun være tilgængelige for projektgruppen. Besøget tager
+30 minutter og du skal ikke være fastende til besøget.
 
 ### Besøg 4, 6, 8 og 10:
 
@@ -532,6 +532,11 @@ tilbage efter interventionen. Hvis du vælger at at trække dit samtykke
 tilbage, skal du aflevere vægt, ur og blodtryksapparat tilbage til de
 forsøgsansvarlige.
 
+Når du deltager i projektet, modtager du følgende (uden omkostninger): -
+Lavkalorie Nupo-diæt til 12 uger. Den giver din krop de næringsstoffer,
+den har brug for. - Måltidskasser til 6 uger - Digital vægt - Smartur -
+Blodtryksmåler - Medlemskab til PureGym - Undervisning i kost og motion
+
 ## Biologisk materiale og forsøgsdata
 
 Da vores projekt ikke tillader analyse af alt materiale umiddelbart
@@ -577,8 +582,8 @@ behandlingsplan måske skal justeres. Med dit informerede samtykke giver
 du samtidig tilladelse til, at din praktiserende læge må videregive
 oplysninger til den hovedansvarlige forsker og de forsøgsansvarlige, om
 eventuelle ekstra gennemførte kontrolbesøg med henblik på justering af
-din diabetes medicin -- herunder dato og kontaktform (fremmøde, telefon,
-andet).\
+din diabetes medicin -- herunder dato, kontaktform (fremmøde, telefon,
+andet) og udfaldet af mødet.\
 
 Endelig giver du med dit informerede samtykke den hovedansvarlige
 forsker og de forsøgsansvarlige lov til at tilgå din journal for at
@@ -723,4 +728,5 @@ for Region Midtjylland (Journalnummer 116524).
 
 ## Kontaktoplysninger
 
-*dette kommer snarest*
+Anne-Ditte Termannsen, Borgmester Ib Juuls Vej 83, 2730 Herlev,
+anne-ditte.termannsen\@regionh.dk
