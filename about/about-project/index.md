@@ -125,6 +125,8 @@ der er implementer bar, skalerbar og acceptabel for T2D-patienter.
 
 ## Bevilling
 
-Det samlede budget for ON LiMiT forsøget udgør 101.811.237 kr. Dette
-beløb dækker over kost og motionsinterventionen, samt løn til de
-ansatte.
+ON LiMiT er finansieret af Novo Nordisk Fonden. Den bevilling udgør
+101.811.237 kr. Dette beløb dækker over kost og motionsinterventionen,
+samt løn til de ansatte.
+
+![](/images/nnf-logo.png)
