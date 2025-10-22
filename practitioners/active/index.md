@@ -15,7 +15,7 @@ Herunder finder du ON LiMiT manualen og skabelon til invitation af potentielle d
 
 - **[Manual](practitioners/active/ON LiMiT Manual.pdf)**: Trin-for-trin vejledning til procedurer i projektet.
 - **[Invitation til potentielle deltagere, digital invitation](practitioners/active/bilag 4a Invitation til deltagere - digital.docx)**: Skabelon som tilrettes før du inviterer potentielle deltagere.
-- - **[Invitation til potentielle deltagere, digital invitation](practitioners/active/bilag 4b Invitation til deltagere - brevpost.docx)**: Skabelon som tilrettes før du inviterer potentielle deltagere.
+- **[Invitation til potentielle deltagere, brevpost](practitioners/active/bilag 4b Invitation til deltagere - brevpost.docx)**: Skabelon som tilrettes før du inviterer potentielle deltagere.
 
 ## Kontakt og støtte
 
