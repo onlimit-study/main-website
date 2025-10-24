@@ -17,7 +17,6 @@ Herunder finder du ON LiMiT manualen og skabelon til invitation af potentielle d
 
 ## Kontakt og støtte
 
-:::{layout-ncol="2"}
 
 ### Jørgen Rungby  
 
@@ -38,4 +37,3 @@ Ved projektrelaterede spørgsmål, fx om procedurer, kontaktes Line Olesen.
 
 - 📧 [ligole@rm.dk](mailto:ligole@rm.dk)  
 - ☎️ 2370 4053 (Hverdage kl. 11-14)
-:::
