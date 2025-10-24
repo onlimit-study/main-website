@@ -1,26 +1,21 @@
 ---
 title: "Vejledning"
-description: For dig, der har deltagere i ON LiMiT feasibilitysudiet
+description: For dig, der er samarbejdsklinik i ON LiMiT feasibilitysudiet
 ---
 
 # Vejledning
 
-Velkommen til vejledningssiden for dig, der har deltagere i ON LiMiT.  
-Her finder du information om procedurer i almen praksis samt alle relevante materialer til at støtte dit arbejde i projektet.
+Velkommen til vejledningssiden for klinikker, der rekrutterer og har deltagere i ON LiMiT.  
+Her finder du senest opdaterede version af ON LiMiT manualen, som indeholder information om procedurer i almen praksis samt alle relevante materialer til at støtte dit arbejde i projektet.
 
-🚧 **Siden er under opbygning og opdateres snarest**
-
-::: content-hidden
 
 ## Materialer
 
-Her kan du finde dokumenter og skemaer, der er relevante for deltagelse i projektet:
+Herunder finder du ON LiMiT manualen og skabelon til invitation af potentielle deltagere:
 
-- **[Manual]()**: Trin-for-trin vejledning til procedurer i projektet.
-- **[Invitation til potentielle deltagere]()**: Skabelon som tilrettes før du inviterer potentielle deltagere.
-- **[Afkrydsningsliste]()**: Kan evt. printes og bruges til at holde styr på hvor langt klinikken er i projektet.
-- **[Rekrutteringsskema]()**: Kan evt. printes og bruges til at registrere antal deltagere.
-- **[Introduktionsvideo]()**: Kort introduktions video.
+- **[Manual](practitioners/active/ON LiMiT Manual.pdf)**: Trin-for-trin vejledning til procedurer i projektet.
+- **[Invitation til potentielle deltagere, digital invitation](practitioners/active/bilag 4a Invitation til deltagere - digital.docx)**: Skabelon som tilrettes før du inviterer potentielle deltagere.
+- **[Invitation til potentielle deltagere, brevpost](practitioners/active/bilag 4b Invitation til deltagere - brevpost.docx)**: Skabelon som tilrettes før du inviterer potentielle deltagere.
 
 ## Kontakt og støtte
 
@@ -44,6 +39,4 @@ Ved projektrelaterede spørgsmål, fx om procedurer, kontaktes Line Olesen.
 
 - 📧 [ligole@rm.dk](mailto:ligole@rm.dk)  
 - ☎️ 2370 4053 (Hverdage kl. 11-14)
-:::
-
 :::
