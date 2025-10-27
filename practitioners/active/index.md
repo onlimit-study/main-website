@@ -11,9 +11,9 @@ Her finder du senest opdaterede version af ON LiMiT manualen, som indeholder inf
 
 Herunder finder du ON LiMiT manualen og skabelon til invitation af potentielle deltagere:
 
-- **[Manual](practitioners/active/ON LiMiT Manual.pdf)**: Trin-for-trin vejledning til procedurer i projektet.
-- **[Invitation til potentielle deltagere, digital invitation](practitioners/active/bilag 4a Invitation til deltagere - digital.docx)**: Skabelon som tilrettes før du inviterer potentielle deltagere.
-- **[Invitation til potentielle deltagere, brevpost](practitioners/active/bilag 4b Invitation til deltagere - brevpost.docx)**: Skabelon som tilrettes før du inviterer potentielle deltagere.
+- **[Manual](/practitioners/active/ON LiMiT Manual.pdf)**: Trin-for-trin vejledning til procedurer i projektet.
+- **[Invitation til potentielle deltagere, digital invitation](/practitioners/active/bilag 4a Invitation til deltagere - digital.docx)**: Skabelon som tilrettes før du inviterer potentielle deltagere.
+- **[Invitation til potentielle deltagere, brevpost](/practitioners/active/bilag 4b Invitation til deltagere - brevpost.docx)**: Skabelon som tilrettes før du inviterer potentielle deltagere.
 
 ## Kontakt og støtte
 
@@ -21,7 +21,7 @@ Herunder finder du ON LiMiT manualen og skabelon til invitation af potentielle d
 ### Jørgen Rungby  
 
 **Forskningsleder og professor i endokrinologi**  
-![Jørgen Rungby](images/Joergen.jpg){.profile-picture}   
+![Jørgen Rungby](/images/Joergen.jpg){.profile-picture}   
 
 Ved behov for sparring om behandling eller lægefaglig rådgivning, vedrørende en deltager i projektet, kontaktes Jørgen Rungby.
 
@@ -30,7 +30,7 @@ Ved behov for sparring om behandling eller lægefaglig rådgivning, vedrørende 
 
 ### Line Olesen
 
-![Line Olesen](images/Line.png){.profile-picture}\
+![Line Olesen](/images/Line.png){.profile-picture}\
 **Projektkoordinator**  
 
 Ved projektrelaterede spørgsmål, fx om procedurer, kontaktes Line Olesen.
