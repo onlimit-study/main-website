@@ -21,7 +21,7 @@ Herunder finder du ON LiMiT manualen og skabelon til invitation af potentielle d
 ### Jørgen Rungby  
 
 **Forskningsleder og professor i endokrinologi**  
-![Jørgen Rungby](/images/Joergen.jpg){.profile-picture}   
+![Jørgen Rungby](/images/Joergen.png){.profile-picture}   
 
 Ved behov for sparring om behandling eller lægefaglig rådgivning, vedrørende en deltager i projektet, kontaktes Jørgen Rungby.
 
