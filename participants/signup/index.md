@@ -1,6 +1,6 @@
 ---
 title: "Tilmelding"
-description: For dig der gerne vil tilmelde dig
+description: For dig der gerne vil deltage i projektet
 css: /style.scss
 ---
 
