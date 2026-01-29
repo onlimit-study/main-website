@@ -23,6 +23,8 @@ website:
             href: participants.md
           - text: "For forskere"
             href: researchers.md
+          - text: "About ON LiMiT"
+            href: eng-about.md
 
 editor:
   markdown:
