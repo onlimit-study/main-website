@@ -13,4 +13,5 @@ listing:
 ---
 
 Velkommen til ON LiMiT. På denne side kan du finde mere information om
-hvad du skal gøre for at **tilmelde** din klinik og finde relevante dokumenter samt **vejledning** til hvad du skal gøre når du er med.
+hvad du skal gøre for at **tilmelde** din klinik og finde relevante
+dokumenter samt **vejledning** til hvad du skal gøre når du er med.
