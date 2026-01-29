@@ -18,3 +18,5 @@ about:
       - text: "About ON LiMiT"
         href: "https://onlimit.org/eng-about.html"
 ---
+
+![](/images/all-on-limit.jpg)
