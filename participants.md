@@ -174,11 +174,13 @@ vedrørende din diabetes eller dit blodtryk.\
 *Kostintervention:*\
 
 I de første 12 uger vil du blive sat på en lavkaloriediæt ved brug af
-måltidserstatningsprodukter (Nupo). Du vil få udleveret 6
-måltidserstatningsprodukter per dag, der samlet indeholder 800 kalorier
-om dagen. Formålet er at tabe mindst 10 % af din nuværende vægt.
-Lykkedes du ikke med at opnå det ønskede vægttab, vil du stadig være med
-i projektet, og du kan bidrage med vigtig information.\
+måltidserstatningsprodukter (Nupo). Vi har 21 forskellige produkter,
+varme retter, omelet, supper, shakes og grød, så der er mange muligheder
+for at sammensætning. Du skal spise/drikke 6 måltidserstatningsprodukter
+per dag, der samlet indeholder 800 kalorier om dagen og du må spise
+udvalgte grøntsager til. Formålet er at tabe mindst 10 % af din
+nuværende vægt. Lykkedes du ikke med at opnå det ønskede vægttab, vil du
+stadig være med i projektet, og du kan bidrage med vigtig information.\
 
 Igennem fase 1 vil du hver anden uge deltage i en 2 timers
 gruppeworkshops på SDCC i Herlev, hvor du kan møde andre deltagere i
