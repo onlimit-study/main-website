@@ -162,4 +162,3 @@ fig-alt="An icon showing medicine and two dialogue boxes."}
     mmHg informerer forsøgsstedet klinikken.
 -   Send en meddelelse retur med information om genoptagelse af medicin.
 :::
-
