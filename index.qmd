@@ -9,7 +9,7 @@ about:
     links:
       - text: "For praktiserende læger"
         href: "https://onlimit.org/practitioners.html"
-      - text: "For deltagere til pilotstudie"
+      - text: "For deltagere"
         href: "https://onlimit.org/participants.html"
       - text: "For forskere"
         href: "https://onlimit.org/researchers.html"
