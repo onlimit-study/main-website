@@ -46,7 +46,7 @@ får beskeden: "Tak for din tilmelding til ON LiMiT".
 
 Du vil senest 3 hverdage efter tilmeldingen blive kontaktet.
 
-<iframe title="Tilmeldingsformular" src="https://redcap.link/tilmeldnu" width="100%" height="1000px" style="border: 6px solid black">
+<iframe title="Tilmeldingsformular" src="https://redcap.regionh.dk/surveys/?s=YE4HXJ4WA9CKJHFC" width="100%" height="1000px" style="border: 6px solid black">
 
 </iframe>
 
