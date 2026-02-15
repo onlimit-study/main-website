@@ -51,7 +51,7 @@ Participants’ results will be compared with results from trial subjects
 who follow standard treatment and who have not undergone a weight loss
 program.
 
-![Studiedesign](/images/study-design.png)
+![Study design.](/images/study-design.png)
 
 Read more about the intervention below:
 
