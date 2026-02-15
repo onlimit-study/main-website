@@ -15,4 +15,8 @@ about:
         href: "https://onlimit.org/researchers.html"
       - text: "Om projektet"
         href: "https://onlimit.org/about.html"
+      - text: "About ON LiMiT"
+        href: "https://onlimit.org/eng-about.html"
 ---
+
+![](/images/all-on-limit.jpg)

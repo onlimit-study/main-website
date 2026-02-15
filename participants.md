@@ -1,7 +1,15 @@
 ---
-title: "Information til deltagere i pilot studiet"
-description: |
-  Hvis du har type 2 diabetes og vil deltage i projektet
+title: "For deltagere"
+listing:
+  sort-ui: false
+  contents: participants
+  type: grid
+  sort: 
+    - "order"
+    - "title"
+  fields: 
+    - "title"
+    - "description"
 ---
 
 ::: {.callout-note appearance="simple"}

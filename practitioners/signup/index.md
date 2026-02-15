@@ -45,8 +45,9 @@ eksklusionskriterier (se nedenfor). Forventningen er ca. 10 potentielle
 deltagere pr. lægekapacitet.
 
 De praktiserende læger inviterer relevante patienter til at få mere
-information om ON LiMiT. Invitationerne sendes elektronisk via praksissystemet eller evt. med
-brevpost (hvis patienten ikke modtager elektroniske beskeder).
+information om ON LiMiT. Invitationerne sendes elektronisk via
+praksissystemet eller evt. med brevpost (hvis patienten ikke modtager
+elektroniske beskeder).
 
 Når en patient tilmelder sig mere information, sendes der automatisk
 skriftligt materiale til patientens mail. En projektmedarbejder fra et
@@ -83,18 +84,18 @@ behandlingsansvaret i hele projektperioden.
 
 Deltagerne bliver bedt om at stoppe med at tage diabetes- og
 blodtryksmedicin ved opstart i vægttabsfasen, og skal kun tage medicin i
-tilfælde af tilbagefald af diabetes. 
+tilfælde af tilbagefald af diabetes.
 
-Forsøgsstedet monitorerer løbende
-HbA1c og blodtryk, mens deltagerne selv udfører supplerende
-sikkerhedsmålinger (fingerprik, kontinuerlig glukosemåling (CGM) og
-hjemmemåling af blodtryk). Disse målinger uploades til forsøgsstedet
-gennem ON LIMIT appen.
+Forsøgsstedet monitorerer løbende HbA1c og blodtryk, mens deltagerne
+selv udfører supplerende sikkerhedsmålinger (fingerprik, kontinuerlig
+glukosemåling (CGM) og hjemmemåling af blodtryk). Disse målinger
+uploades til forsøgsstedet gennem ON LIMIT appen.
 
 Hvis forsøgsstedet måler to separate HbA1c \>53 mmol/mol, anbefales
 genoptagelse af diabetesmedicin. Den praktiserende kontaktes via en
-korrespondancemeddelelse og anbefales at genoptage diabetesmedicin jf. DSAM/DES
-retningslinjer. Deltageren opfordres til at fortsætte i projektet.
+korrespondancemeddelelse og anbefales at genoptage diabetesmedicin jf.
+DSAM/DES retningslinjer. Deltageren opfordres til at fortsætte i
+projektet.
 
 ## Projektets forløb i almen praksis
 
@@ -138,7 +139,7 @@ fig-alt="An icon showing a computer screen with checkmarks."}
 ### Udfyld rekrutteringsskema
 
 -   Indtast data om antal patienter i målgruppen, antal potentielle
-    deltagere og antal, der har takket nej. 
+    deltagere og antal, der har takket nej.
 :::
 
 ::: {layout="[10, 90]"}
@@ -161,3 +162,4 @@ fig-alt="An icon showing medicine and two dialogue boxes."}
     mmHg informerer forsøgsstedet klinikken.
 -   Send en meddelelse retur med information om genoptagelse af medicin.
 :::
+
