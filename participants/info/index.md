@@ -9,7 +9,7 @@ description: |
 
 Vi vil gerne invitere dig til at deltage i et videnskabeligt projekt,
 hvor vi på baggrund af en livsstilsintervention med kost og motion vil
-undersøge, hvordan du opnår og fastholder remission af type-2 diabetes.\
+undersøge, hvordan du opnår og fastholder remission af type-2 diabetes.
 
 Remission betyder, at blodsukkeret er normalt uden brug af medicin, men
 at sygdommen kan komme igen, hvis livsstilen ændrer sig.\
