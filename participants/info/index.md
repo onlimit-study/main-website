@@ -18,7 +18,7 @@ Projektet er en del af ON LiMiT (Optimal Non-pharmacological LifeStyle
 Modifications in people with Type 2-diabetes), som er et
 forskningsprojekt gennemført i samarbejde mellem Steno Diabetes Center i
 Aarhus, Odense og København, Københavns Universitet og Bispebjerg
-Hospital.\
+Hospital.
 
 Vi rekrutterer til nu til vores pilotforsøg som foregår ved Steno
 Diabetes Center København i Herlev.\
