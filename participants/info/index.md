@@ -200,5 +200,6 @@ Juuls Vej 83, 2730 Herlev.\
 
 ## Kontaktoplysninger
 
-Anne-Ditte Termannsen, Borgmester Ib Juuls Vej 83, 2730 Herlev,
-anne-ditte.termannsen\@regionh.dk
+Anne-Ditte Termannsen, Borgmester Ib Juuls Vej 83, 2730 Herlev\
+
+Email: anne-ditte.termannsen\@regionh.dk
