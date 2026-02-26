@@ -4,7 +4,7 @@ description: For dig, der er samarbejdsklinik i ON LiMiT feasibilitysudiet
 ---
 
 Velkommen til vejledningssiden for klinikker, der rekrutterer og har
-deltagere i ON LiMiT.\
+deltagere i ON LiMiT.
 Her finder du senest opdaterede version af ON LiMiT manualen, som
 indeholder information om procedurer i almen praksis samt alle relevante
 materialer til at støtte dit arbejde i projektet.
