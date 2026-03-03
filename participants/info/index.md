@@ -12,7 +12,7 @@ hvor vi på baggrund af en livsstilsintervention med kost og motion vil
 undersøge, hvordan du opnår og fastholder remission af type-2 diabetes.
 
 Remission betyder, at blodsukkeret er normalt uden brug af medicin, men
-at sygdommen kan komme igen, hvis livsstilen ændrer sig.\
+at sygdommen kan komme igen, hvis livsstilen ændrer sig.
 
 Projektet er en del af ON LiMiT (Optimal Non-pharmacological LifeStyle
 Modifications in people with Type 2-diabetes), som er et
@@ -21,7 +21,7 @@ Aarhus, Odense og København, Københavns Universitet og Bispebjerg
 Hospital.
 
 Vi rekrutterer til nu til vores pilotforsøg som foregår ved Steno
-Diabetes Center København i Herlev.\
+Diabetes Center København i Herlev.
 :::
 
 Hvis du er interesseret i at deltage, kan du læse en kort beskrivelse af
@@ -34,15 +34,16 @@ fulde deltagerinformation her:
 Før du endelig beslutter, om du vil deltage, vil du blive tilbudt en
 samtale, hvor du vil få yderligere information og mulighed for at stille
 spørgsmål. Hvis du ønsker det, må du gerne tage en pårørende med til
-samtalen.\
+samtalen.
 
 Det er frivilligt at deltage i projektet, og du kan til enhver tid
 trække dit samtykke tilbage uden at det får konsekvenser for din
 behandling. Tilmelding kan ske
-[her](https://onlimit.org/participants/signup/)\
+[her](https://onlimit.org/participants/signup/).
+
 
 I løbet af år 2026 og 2027 vil forsøget starte op i Aarhus, Odense og
-flere stedet i Københavnsområdet.\
+flere stedet i Københavnsområdet.
 
 ## Information til deltagere i ON LiMiT pilotstudie
 
@@ -56,7 +57,7 @@ ved et indledende vægttab, kan fastholdes ved hjælp af sunde kostvaner
 og struktureret træning. I pilot studiet vil vi undersøge, hvordan du
 som deltager oplever kost- og træningsforløbet. Dine og andres
 erfaringer vil blive brugt til at tilrettelægge og optimere det
-efterfølgende 2-årige interventionsstudie.\
+efterfølgende 2-årige interventionsstudie.
 
 ## Inklusions- og eksklusionskriterier
 
@@ -95,7 +96,7 @@ gælder:
 ## Plan for projektet
 
 Projektet varer 1 år (52 uger) og består af tre faser, der kombinerer
-kost, træning og tæt støtte.\
+kost, træning og tæt støtte.
 
 ![Projektfigur](/images/study-design-participant-info.png)
 
@@ -130,7 +131,7 @@ Herlev. Du skal varetage den tredje træning på egen hånd. Du får stillet
 et gratis medlemskab til PureGym til rådighed i denne fase samt i fase
 2. Du skal træne med høj intensitet, hvilket vil sige, at du får pulsen
 op og vil blive forpustet under træningen. Træningsinstruktørerne vil
-hjælpe dig med at finde den rigtige intensitet for træningen.\
+hjælpe dig med at finde den rigtige intensitet for træningen.
 
 ### Fase 3 – Vedligeholdelse af diæt og træning (34 uger)
 
@@ -152,7 +153,7 @@ gruppeinterviews gennem projektperioden. Figuren nedenfor viser
 varigheden af de enkelte besøgsdage samt hvornår de er placeret i
 projektforløbet. Hvis du ønsker at læse om hvert enkelt besøg, kan du
 finde mere information i den fulde deltagerinformation som du kan hente
-på toppen af siden.\
+på toppen af siden.
 
 ![Projektfigur](/images/study-activities-participant-info.png)
 
@@ -175,7 +176,7 @@ Foruden de 10 besøg skal du også udføre følgende hjemmemålinger:
 Du skal uploade data om blodsukker, blodtryk, vægt og intensitet af dine
 træninger via en studieapp. Det er kun projektteamet, der kan se dine
 resultater. Som nævnt ovenfor, så skal de øvrige prøver medbringes i
-forbindelse med dine besøg.\
+forbindelse med dine besøg.
 
 ## Fordele ved at deltage i projektet
 
@@ -185,7 +186,7 @@ højintensitetstræning kan støtte og fastholde remission af type
 udfordringer ved forskellige kosttyper i kombination med træning. Uanset
 hvilken gruppe du tilhører, vil du modtage støtte og vejledning i sund
 og bæredygtig kost, vægttab og træning. Projektet har fokus på et stort
-indledende vægttab, stabilt blodsukker og langsigtet remission.\
+indledende vægttab, stabilt blodsukker og langsigtet remission.
 
 Som deltager får du gratis kost- og træningsforløb samt udstyr til
 hjemmemålinger, herunder vægt, smartur og blodtryksmåler, som du kan
@@ -193,13 +194,13 @@ beholde efter projektets afslutning. Derudover får du gratis
 måltidskasser i 6 uger og medlemskab til PureGym i 40 uger. Hvis du
 ønsker det, kan du få oplyst dine resultater og helbredsoplysninger, og
 du vil blive informeret om de samlede resultater, når pilotprojektet
-afsluttes.\
+afsluttes.
 
 Pilotforsøge udføres på Steno Diabetes Center Copenhagen, Borgmester Ib
-Juuls Vej 83, 2730 Herlev.\
+Juuls Vej 83, 2730 Herlev.
 
 ## Kontaktoplysninger
 
-Anne-Ditte Termannsen, Borgmester Ib Juuls Vej 83, 2730 Herlev\
+Anne-Ditte Termannsen, Borgmester Ib Juuls Vej 83, 2730 Herlev
 
 Email: anne-ditte.termannsen\@regionh.dk
