@@ -129,7 +129,7 @@ også skulle begynde at træne 3 gange om ugen. To af disse træninger er
 gruppebaserede og ledes af instruktører fra PureGym-centret Stålen i
 Herlev. Du skal varetage den tredje træning på egen hånd. Du får stillet
 et gratis medlemskab til PureGym til rådighed i denne fase samt i fase
-2. Du skal træne med høj intensitet, hvilket vil sige, at du får pulsen
+3. Du skal træne med høj intensitet, hvilket vil sige, at du får pulsen
 op og vil blive forpustet under træningen. Træningsinstruktørerne vil
 hjælpe dig med at finde den rigtige intensitet for træningen.
 
@@ -140,8 +140,10 @@ og du skal bruge din viden fra fase 2 til selv at stå for indkøb og
 madlavning. De to ugentlige holdtræninger med instruktør og din
 individuelle træning fortsætter, og du vil fortsat få betalt dit
 medlemskab i PureGym. Du vil løbende blive støttet af diætister og
-træningsinstruktører. Besøg og tidsforbrug I løbet af de 52 uger som
-projektet varer, skal du møde op til 10 forsøgsdage på Steno Diabetes
+træningsinstruktører. 
+
+### Besøg og tidsforbrug
+I løbet af de 52 uger som projektet varer, skal du møde op til 10 forsøgsdage på Steno Diabetes
 Center Copenhagen i Herlev. Der vil ud over screeningsbesøget være 3
 korte besøg (ca. 30 minutter per besøg), 2 mellemlange besøg (ca. 4,5
 timer per besøg) og 4 lange besøg (ca. 7 timer per besøg). Du skal møde
@@ -196,7 +198,7 @@ måltidskasser i 6 uger og medlemskab til PureGym i 40 uger. Hvis du
 du vil blive informeret om de samlede resultater, når pilotprojektet
 afsluttes.
 
-Pilotforsøge udføres på Steno Diabetes Center Copenhagen, Borgmester Ib
+Pilotforsøget udføres på Steno Diabetes Center Copenhagen, Borgmester Ib
 Juuls Vej 83, 2730 Herlev.
 
 ## Kontaktoplysninger
