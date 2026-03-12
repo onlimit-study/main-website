@@ -42,8 +42,8 @@ behandling. Tilmelding kan ske
 [her](https://onlimit.org/participants/signup/).
 
 
-I løbet af år 2026 og 2027 vil forsøget starte op i Aarhus, Odense og
-flere stedet i Københavnsområdet.
+I løbet af 2026 og 2027 vil forsøget starte op i Aarhus, Odense samt
+flere steder i Københavnsområdet.
 
 ## Information til deltagere i ON LiMiT pilotstudie
 
