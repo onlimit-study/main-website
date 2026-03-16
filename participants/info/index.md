@@ -20,13 +20,12 @@ forskningsprojekt gennemført i samarbejde mellem Steno Diabetes Center i
 Aarhus, Odense og København, Københavns Universitet og Bispebjerg
 Hospital.
 
-Vi rekrutterer til nu til vores pilotforsøg som foregår ved Steno
+Vi rekrutterer nu til vores pilotforsøg som foregår ved Steno
 Diabetes Center København i Herlev.
 :::
 
 Hvis du er interesseret i at deltage, kan du læse en kort beskrivelse af
-baggrunden for projektet og projektet nedenfor. Du kan også læse den
-fulde deltagerinformation her:
+projektet nedenfor. Du kan også læse den fulde deltagerinformation her:
 
 -   [**Deltagerinformation**](/participants/info/deltagerinformation_onlimit_pilot_ver5_Feb_2026.pdf):
     Detaljeret information om projektet.
