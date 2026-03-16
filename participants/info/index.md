@@ -25,8 +25,7 @@ Diabetes Center København i Herlev.
 :::
 
 Hvis du er interesseret i at deltage, kan du læse en kort beskrivelse af
-baggrunden for projektet og projektet nedenfor. Du kan også læse den
-fulde deltagerinformation her:
+projektet nedenfor. Du kan også læse den fulde deltagerinformation her:
 
 -   [**Deltagerinformation**](/participants/info/deltagerinformation_onlimit_pilot_ver5_Feb_2026.pdf):
     Detaljeret information om projektet.
@@ -40,7 +39,6 @@ Det er frivilligt at deltage i projektet, og du kan til enhver tid
 trække dit samtykke tilbage uden at det får konsekvenser for din
 behandling. Tilmelding kan ske
 [her](https://onlimit.org/participants/signup/).
-
 
 I løbet af 2026 og 2027 vil forsøget starte op i Aarhus, Odense samt
 flere steder i Københavnsområdet.
@@ -140,22 +138,23 @@ og du skal bruge din viden fra fase 2 til selv at stå for indkøb og
 madlavning. De to ugentlige holdtræninger med instruktør og din
 individuelle træning fortsætter, og du vil fortsat få betalt dit
 medlemskab i PureGym. Du vil løbende blive støttet af diætister og
-træningsinstruktører. 
+træningsinstruktører.
 
 ### Besøg og tidsforbrug
-I løbet af de 52 uger som projektet varer, skal du møde op til 10 forsøgsdage på Steno Diabetes
-Center Copenhagen i Herlev. Der vil ud over screeningsbesøget være 3
-korte besøg (ca. 30 minutter per besøg), 2 mellemlange besøg (ca. 4,5
-timer per besøg) og 4 lange besøg (ca. 7 timer per besøg). Du skal møde
-fastende til de mellemlange og lange besøg. Du vil sammen med en
-projektmedarbejder planlægge dine forsøgsdage, så de passer med din
-kalender. Du skal derudover møde op til 2 langtidsblodsukkermålinger,
-når der er gået cirka 30 og 42 uger. Du vil også skulle deltage i 5
-gruppeinterviews gennem projektperioden. Figuren nedenfor viser
-varigheden af de enkelte besøgsdage samt hvornår de er placeret i
-projektforløbet. Hvis du ønsker at læse om hvert enkelt besøg, kan du
-finde mere information i den fulde deltagerinformation som du kan hente
-på toppen af siden.
+
+I løbet af de 52 uger som projektet varer, skal du møde op til 10
+forsøgsdage på Steno Diabetes Center Copenhagen i Herlev. Der vil ud
+over screeningsbesøget være 3 korte besøg (ca. 30 minutter per besøg), 2
+mellemlange besøg (ca. 4,5 timer per besøg) og 4 lange besøg (ca. 7
+timer per besøg). Du skal møde fastende til de mellemlange og lange
+besøg. Du vil sammen med en projektmedarbejder planlægge dine
+forsøgsdage, så de passer med din kalender. Du skal derudover møde op
+til 2 langtidsblodsukkermålinger, når der er gået cirka 30 og 42 uger.
+Du vil også skulle deltage i 5 gruppeinterviews gennem projektperioden.
+Figuren nedenfor viser varigheden af de enkelte besøgsdage samt hvornår
+de er placeret i projektforløbet. Hvis du ønsker at læse om hvert enkelt
+besøg, kan du finde mere information i den fulde deltagerinformation som
+du kan hente på toppen af siden.
 
 ![Projektfigur](/images/study-activities-participant-info.png)
 
