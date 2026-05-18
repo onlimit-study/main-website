@@ -10,11 +10,11 @@ with Type 2 diabetes), er et samarbejde mellem 6 partnere:
 
 -   Steno Diabetes Center Aarhus ved Aarhus Universitet og Aarhus
     Universitetshospital
--   Steno Diabetes Center København
--   Steno Diabetes Center Odense
--   Bispebjerg Hospital
+-   Steno Diabetes Center København, Region Hovedstaden
+-   Steno Diabetes Center Odense, Region Syddanmark
+-   Bispebjerg Hospital, Region Hovedstaden
 -   Institut for Idræt og Ernæring ved Københavns Universitet
--   Center for Basic Metabolic Research ved Københavns Universitet
+-   Novo Nordisk Foundation Center for Basic Metabolic Research ved Københavns Universitet
     universitet og Bispebjerg hospital
 
 # Forskerne i projektet
@@ -43,6 +43,6 @@ with Type 2 diabetes), er et samarbejde mellem 6 partnere:
 
 -   Faidon Magkos, site leader
 
-## Novo Nordisk Center for Basic Metabolic Research
+## Novo Nordisk Foundation Center for Basic Metabolic Research
 
 -   Torben Hansen, work package leader
