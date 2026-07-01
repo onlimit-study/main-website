@@ -26,7 +26,7 @@ website:
           - text: "About ON LiMiT"
             href: eng-about.md
   page-footer:
-    center: "![](_extensions/onlimit-study/onlimit-theme/images/sdca.svg){height='40px'} ![](_extensions/onlimit-study/onlimit-theme/images/au.svg){height='40px'} ![](_extensions/onlimit-study/onlimit-theme/images/sdcc.svg){height='40px'} ![](_extensions/onlimit-study/onlimit-theme/images/sdco.svg){height='40px'} ![](_extensions/onlimit-study/onlimit-theme/images/ku.svg){height='40px'} ![](_extensions/onlimit-study/onlimit-theme/images/bispebjerg.svg){height='40px'}"
+    center: "![](/_extensions/onlimit-study/onlimit-theme/images/sdca.svg){height='40px'} ![](/_extensions/onlimit-study/onlimit-theme/images/au.svg){height='40px'} ![](/_extensions/onlimit-study/onlimit-theme/images/sdcc.svg){height='40px'} ![](/_extensions/onlimit-study/onlimit-theme/images/sdco.svg){height='40px'} ![](/_extensions/onlimit-study/onlimit-theme/images/ku.svg){height='40px'} ![](/_extensions/onlimit-study/onlimit-theme/images/bispebjerg.svg){height='40px'}"
 
 editor:
   markdown:
