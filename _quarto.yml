@@ -27,7 +27,7 @@ website:
             href: eng-about.md
     tools:
       -  icon: github
-         href: "https://github.com/on-limit-study/main-website"
+         href: "https://github.com/onlimit-study/main-website"
   page-footer:
     center: "![](/_extensions/onlimit-study/onlimit-theme/images/sdca.svg){height='40px'} ![](/_extensions/onlimit-study/onlimit-theme/images/au.svg){height='40px'} ![](/_extensions/onlimit-study/onlimit-theme/images/sdcc.svg){height='40px'} ![](/_extensions/onlimit-study/onlimit-theme/images/sdco.svg){height='40px'} ![](/_extensions/onlimit-study/onlimit-theme/images/ku.svg){height='40px'} ![](/_extensions/onlimit-study/onlimit-theme/images/bispebjerg.svg){height='40px'}"
 
