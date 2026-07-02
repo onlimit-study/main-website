@@ -25,6 +25,9 @@ website:
             href: researchers.md
           - text: "About ON LiMiT"
             href: eng-about.md
+    tools:
+      -  icon: github
+         href: "https://github.com/on-limit-study/main-website"
 
 editor:
   markdown:
