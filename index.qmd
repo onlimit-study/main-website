@@ -7,16 +7,14 @@ about:
     image-width: 35em
     image-shape: rounded
     links:
-      - text: "For praktiserende læger"
-        href: "https://onlimit.org/practitioners.html"
       - text: "For deltagere"
-        href: "https://onlimit.org/participants.html"
-      - text: "For forskere"
-        href: "https://onlimit.org/researchers.html"
-      - text: "Om projektet"
-        href: "https://onlimit.org/about.html"
+        href: "https://onlimit.org/deltager.html"
+      - text: "For sundhedsprofessionelle"
+        href: "https://onlimit.org/sundhedsprofessionelle.html"
+      - text: "Kontakt"
+        href: "https://onlimit.org/kontakt.html"
       - text: "About ON LiMiT"
-        href: "https://onlimit.org/eng-about.html"
+        href: "https://onlimit.org/about.html"
 ---
 
 ![](/images/all-on-limit.jpg)
