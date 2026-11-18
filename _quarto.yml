@@ -21,10 +21,8 @@ website:
             href: sundhedsprofessionelle.md
           - text: "Kontakt"
             href: kontakt.md
-          - text: "For forskere"
-            href: researchers.md
           - text: "About ON LiMiT"
-            href: eng-about.md
+            href: about.md
     tools:
       -  icon: github
          href: "https://github.com/onlimit-study/main-website"
