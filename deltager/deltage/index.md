@@ -1,5 +1,5 @@
 ---
-title: "Information til deltagere"
+title: "Kan jeg deltage?"
 description: |
   Hvis du har type 2 diabetes og vil deltage i projektet
 ---
@@ -20,8 +20,8 @@ forskningsprojekt gennemført i samarbejde mellem Steno Diabetes Center i
 Aarhus, Odense og København, Københavns Universitet og Bispebjerg
 Hospital.
 
-Vi rekrutterer nu til vores pilotforsøg som foregår ved Steno
-Diabetes Center København i Herlev.
+Vi rekrutterer nu til vores pilotforsøg som foregår ved Steno Diabetes
+Center København i Herlev.
 :::
 
 Hvis du er interesseret i at deltage, kan du læse en kort beskrivelse af

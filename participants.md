@@ -2,7 +2,7 @@
 title: "For deltagere"
 listing:
   sort-ui: false
-  contents: participants
+  contents: deltager
   type: grid
   sort: 
     - "order"

@@ -15,12 +15,12 @@ website:
     left:
       - text: "Menu"
         menu:
+          - text: "For deltagere"
+            href: deltager.md
           - text: "Om ON LiMiT"
             href: about.md
-          - text: "For praktiserende læger"
+          - text: "For sundhedsprofessionelle"
             href: practitioners.md
-          - text: "For deltagere"
-            href: participants.md
           - text: "For forskere"
             href: researchers.md
           - text: "About ON LiMiT"
