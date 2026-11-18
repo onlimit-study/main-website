@@ -1,8 +1,8 @@
 ---
-title: "For praktiserende læger"
+title: "For sundhedsprofessionelle"
 listing:
   sort-ui: false
-  contents: practitioners
+  contents: sundhedsprofessionelle
   type: grid
   sort: 
     - "order"

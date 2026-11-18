@@ -17,10 +17,10 @@ website:
         menu:
           - text: "For deltagere"
             href: deltager.md
-          - text: "Om ON LiMiT"
-            href: about.md
           - text: "For sundhedsprofessionelle"
-            href: practitioners.md
+            href: sundhedsprofessionelle.md
+          - text: "Kontakt"
+            href: kontakt.md
           - text: "For forskere"
             href: researchers.md
           - text: "About ON LiMiT"

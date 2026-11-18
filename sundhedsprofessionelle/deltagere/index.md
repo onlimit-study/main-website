@@ -1,6 +1,6 @@
 ---
-title: "Tilmelding"
-description: For dig der gerne vil tilmelde din klinik til projektet
+title: "Hjælp os med at finde deltagere"
+description: For dig der gerne vil tilmelde din klinik eller borgere til projektet
 css: /style.scss
 ---
 

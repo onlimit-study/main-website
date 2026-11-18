@@ -1,6 +1,6 @@
 ---
-title: "Vejledning"
-description: For dig, der er samarbejdsklinik i ON LiMiT feasibilitysudiet
+title: "Bliv samarbejdsklinik"
+description: For dig, der vil være samarbejdsklinik
 ---
 
 Velkommen til vejledningssiden for klinikker, der rekrutterer og har
